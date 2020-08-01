@@ -1,5 +1,5 @@
 # SmartBrain
-Final project for Web Development Course (front end)
+Final project for Web Development Course (frontend)
 
 backend is on https://github.com/zongweif/smart-brain-api
 
